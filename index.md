@@ -1,4 +1,7 @@
-## Welcome to GitHub Pages
+## Agr1m's First CS193 Homework
+
+- CS193's really chill
+- CS193's the best course cause the instructor's favorite road sign is the yellow light and the curvy road ahead sign.
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
